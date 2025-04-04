@@ -1,0 +1,30 @@
+*{
+    
+}
+
+header{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+    padding: 30px;
+}
+   
+.features{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    border: 1px solid red;  
+}  
+
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+    padding-top: 40px;
+    padding: 30px;  
+}
